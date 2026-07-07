@@ -1,0 +1,3 @@
+mkdocs-section-index
+mkdocs-obsidian-bridge
+mkdocs-material
