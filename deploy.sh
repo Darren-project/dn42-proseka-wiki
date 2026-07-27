@@ -1,0 +1,1 @@
+properdocs gh-deploy --force

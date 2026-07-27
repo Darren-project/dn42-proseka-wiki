@@ -1,3 +1,5 @@
+properdocs
 mkdocs-section-index
 mkdocs-obsidian-bridge
-mkdocs-material
+mkdocs-material[imaging]
+mkdocs-rss-plugin

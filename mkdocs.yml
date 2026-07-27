@@ -1,7 +1,11 @@
 site_name: ProSeka DN42
+site_description: Documentation for ProSeka DN42 Network
+copyright: "© ProSeka DN42"
 
 theme:
   name: material
+  logo: site_arts/dn42.png
+  favicon: site_arts/favicon.ico
   palette: 
 
     # Palette toggle for light mode
@@ -20,7 +24,16 @@ plugins:
   - obsidian-bridge
   - search
   - section-index
+  - social:
+      cards_layout_dir: layouts
+      cards_layout: custom
+
+  
+site_url: "https://docs.proseka.darrenmc.dev"
+
 
 markdown_extensions:
  - obsidian_media_mkdocs
  - obsidian_callouts
+ - pymdownx.escapeall:
+        hardbreak: true
