@@ -2,30 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.proseka.darrenmc.dev/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
     </url>
     <url>
          <loc>https://docs.proseka.darrenmc.dev/Internal/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
     </url>
     <url>
          <loc>https://docs.proseka.darrenmc.dev/Internal/Customer%20Endpoints/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.proseka.darrenmc.dev/Internal/Assigned%20Resources/</loc>
+         <lastmod>2026-07-27</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.proseka.darrenmc.dev/Internal/Assigned%20Resources/proseka.dn42/</loc>
+         <lastmod>2026-07-27</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.proseka.darrenmc.dev/Internal/Used%20Resources/</loc>
+         <lastmod>2026-07-27</lastmod>
     </url>
     <url>
          <loc>https://docs.proseka.darrenmc.dev/Nodes/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
     </url>
     <url>
          <loc>https://docs.proseka.darrenmc.dev/Nodes/Haruka/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
     </url>
     <url>
          <loc>https://docs.proseka.darrenmc.dev/Services/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
     </url>
     <url>
          <loc>https://docs.proseka.darrenmc.dev/Services/resolvers/</loc>
-         <lastmod>2026-07-07</lastmod>
+         <lastmod>2026-07-27</lastmod>
     </url>
 </urlset>
